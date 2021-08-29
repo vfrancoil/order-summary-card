@@ -92,6 +92,9 @@ footer {
   display:flex;
   width: 70%;
   align-items: center;
+  background:var(--Verypaleblue);
+  padding:15px;
+  border-radius: 15px;
 }
 
 .content .info span{
